@@ -1,0 +1,29 @@
+
+
+
+body{
+    
+     background-color:bisque ;
+}
+.menu, h1, p {
+    display: inline-block;
+    text-align: right;
+}
+img{
+    border-radius: 100%;
+}
+nav{
+    font-size: 14px; 
+}
+p{
+    color:blueviolet;
+}
+ul{
+    color:blueviolet;
+}
+h1{
+    color:green;
+}
+footer{
+    color: green;
+}

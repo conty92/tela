@@ -1,0 +1,26 @@
+body{
+    background-color: bisque;
+}
+img{
+    border-radius: 30px;
+}
+h1,h3{
+    color: green;
+    font-size: 14px;
+}
+p{
+    color: blueviolet;
+}
+tableborder{
+    color: green;
+    size: 1px;
+
+}
+td{
+    color: blueviolet;
+}
+
+footer{
+    color: green;
+    font-size: 18px;
+}
